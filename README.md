@@ -1,6 +1,6 @@
-# pythob-projects
+<h1>pythob-projects</h1>
 
-<h3> these are simple projects using Python </h3>
+<h4> These Are Simple Projects Using Python </h4>
 <ol>
   <li>simple calculator</li>
 </ol>
