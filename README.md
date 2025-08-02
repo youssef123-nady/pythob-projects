@@ -4,5 +4,7 @@
 <ol>
   <li>simple calculator</li>
   <li>Password Generator</li>
+  <li>ToDo List App</li>
+  <li>Random Username Generator</li>
 </ol>
 
